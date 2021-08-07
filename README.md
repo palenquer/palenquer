@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=palenquer)
 
-My name is Paulo Alenquer and I'm a Front-end Developer who is passionate about technology, programming and learning.
+My name is Paulo Alenquer and I'm a Front-end Developer who is passionate about technology, programming and learn.
 
 ### 🛠 &nbsp;Technologies
 
