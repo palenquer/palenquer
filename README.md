@@ -6,7 +6,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Paulo Alenquer and I'm a Front-end Developer who is passionate about technology, programming and learn new technologies.
+My name is Paulo Alenquer and I'm a Front-end Developer who is passionate about programming and learning new technologies.
 
 <br/>
 
