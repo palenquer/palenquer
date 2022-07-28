@@ -1,7 +1,9 @@
 <a href="https://www.linkedin.com/in/pauloalenquer/">
-  <img align="left" alt="pauloalenquer's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="pauloalenquer's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pauloalenquer@gmail.com">
+  <img align="left" alt="pauloalenquer's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <br/>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -10,9 +12,7 @@ I’m a Software Engineer that loves to solve real-world problems. Always search
 challenges to improve my skills and knowledge. Currently I’m studying Elixir and searching
 for a opportunity in the functional programming market.
 
-<br/>
-
-### 🛠 &nbsp;Technologies
+## 🛠 &nbsp;Technologies
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
