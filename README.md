@@ -8,9 +8,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m a Software Engineer that loves to solve real-world problems. Always searching for new
-challenges to improve my skills and knowledge. Currently I’m studying Elixir and searching
-for a opportunity in the functional programming market.
+I am interested in pursuing new challenges and collaborating with other developers to solve complex problems. I am diligent and committed to completing my tasks, always striving for high-quality work.
 
 ## 🛠 &nbsp;Technologies
 
