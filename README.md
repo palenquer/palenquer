@@ -10,7 +10,7 @@
 
 Sou apaixonado por descomplicar e criar softwares complexos, o que me levou a atuar como desenvolvedor de softwares Front-End, com mais de 3 𝗮𝗻𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲̂𝗻𝗰𝗶𝗮.
 
-## 🛠 &nbsp;Technologies
+## 🛠 &nbsp;Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
