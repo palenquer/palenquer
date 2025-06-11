@@ -6,9 +6,7 @@
 </a>
 <br/>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Sou apaixonado por descomplicar e criar softwares complexos, o que me levou a atuar como desenvolvedor de software com mais de 3 𝗮𝗻𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲̂𝗻𝗰𝗶𝗮.
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🛠 &nbsp;Skills
 
